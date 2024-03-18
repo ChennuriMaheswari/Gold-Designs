@@ -1,0 +1,11 @@
+.wrapper-main{
+   width:1000px;
+   padding: 100px 0;
+   margen:0 auto;
+}
+
+@media (min-width:601px) and (max-width:992px){
+    .wrapper-main{
+        width:100%;
+     }
+}
